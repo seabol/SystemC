@@ -1,0 +1,44 @@
+log4j:WARN No appenders could be found for logger (org.eclipse.jgit.internal.storage.file.FileSnapshot).
+log4j:WARN Please initialize the log4j system properly.
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:41:54.118: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:41:54.428: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:41:57.250: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:41:57.371: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:05.203: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:05.590: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:31.906: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:32.166: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:34.700: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:34.830: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:37.863: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 16:42:37.981: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.364: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.432: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.432: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.452: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.530: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.531: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.612: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.613: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
+
+(Imperas eGui:18512): Gtk-CRITICAL **: 17:05:54.630: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkScrollbar
